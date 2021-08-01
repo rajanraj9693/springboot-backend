@@ -1,4 +1,4 @@
-package com.springboot.angular.SpringBootBackEnd.controller;
+package com.springboot.angular.SpringBootBackEnd.exception;
 
 import java.util.function.Supplier;
 
